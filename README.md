@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 I'm currently working on<br>Building my skills in IT infrastructure, cloud computing, and Python backend development<br>👥 I'm looking to collaborate on<br>Python backend projects, REST API development, and full-stack web applications<br>🤝 I'm looking for help with<br>AWS cloud architecture and DevOps practices<br>🌱 I'm currently learning<br>AWS Cloud fundamentals, Linux system administration, and DevOps concepts<br>⚡ Fun fact<br>I built a complete Student Information System with 10+ REST API endpoints as a fresher!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokesh._.rxddyy__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshreddy085) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taarapareddylokeshreddy@gmail.com) 
